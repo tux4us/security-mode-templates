@@ -1,3 +1,7 @@
 # Enter web domains that are suitable for children, each address in a new line. 
 blinde-kuh.de
 volla.tech
+https://www.internet-abc.de/
+http://www.seitenstark.de/
+https://www.fragfinn.de/
+https://www.kindersache.de/
